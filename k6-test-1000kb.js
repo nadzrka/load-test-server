@@ -8,9 +8,10 @@ export let options = {
       startVUs: 0,
       stages: [
         { duration: '10s', target: 50 },
-        { duration: '10s', target: 100 },
-        { duration: '10s', target: 200 },
-        { duration: '10s', target: 500 },
+        { duration: '10s', target: 80 },
+        { duration: '10s', target: 150 },
+        { duration: '10s', target: 250 },
+        { duration: '10s', target: 400 },
       ],
     },
   },
